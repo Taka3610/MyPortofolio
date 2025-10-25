@@ -44,6 +44,3 @@ I believe every line of code tells a story — about learning, failing, fixing, 
 🎯 Purpose
 This portfolio is more than a showcase; it’s a reflection of continuous growth and curiosity.
 I hope it can serve as both documentation of my progress and a source of motivation for others learning web development.
-I hope it can serve as both documentation of my progress and a source of motivation for others learning web development.
-
-Kamu mau
